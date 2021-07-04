@@ -18,3 +18,14 @@ https://github.com/collections/github-browser-extensions
 This collection of design libraries are the best on the web, and will complete your toolset for designing stunning products.
 https://github.com/collections/design-essentials
 
+
+A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+https://github.com/trimstray/the-book-of-secret-knowledge
+
+
+A list of awesome beginners-friendly project
+https://github.com/MunGell/awesome-for-beginners
+
+
+# Useful Resources
+https://github.com/topics/awesome
