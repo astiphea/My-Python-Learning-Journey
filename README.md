@@ -1,3 +1,3 @@
 # Web Development Education
- 
-https://pages.github.com/ to display current projects I'm working on
+Goal: Keep all education resources on one webpage for easy access.
+
